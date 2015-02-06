@@ -1,0 +1,17 @@
+{
+  "name": "async-workshop",
+  "version": "1.0.0",
+  "description": "Workshop for Async.",
+  "dependencies": {
+    "async": "^0.9.0",
+    "connect-timeout": "^1.5.0",
+    "express": "^4.11.2",
+    "grunt": "^0.4.5",
+    "grunt-concurrent": "^1.0.0",
+    "grunt-contrib-coffee": "^0.12.0",
+    "grunt-contrib-connect": "^0.9.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-nodemon": "^0.4.0",
+    "load-grunt-tasks": "^3.1.0"
+  }
+}
